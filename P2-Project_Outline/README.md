@@ -8,21 +8,21 @@ The inspiration for this project came from my boyfriend; he is an incredibly goa
 
 ## Features
 
-	-Sign up/Login: Users can create their own personal account with chosen username and password. They will be able to log in and out of their account. Data will be salted and hashed for security.
+-Sign up/Login: Users can create their own personal account with chosen username and password. They will be able to log in and out of their account. Data will be salted and hashed for security.
 	
-	-Create and edit habits: Users can create/edit habits in either given category- Habit making or breaking. 
+-Create and edit habits: Users can create/edit habits in either given category- Habit making or breaking. 
 	
-	-Subcategories: Users can create their own subcategories to put habits in for better organization (Ex: health, financial, etc…)
+-Subcategories: Users can create their own subcategories to put habits in for better organization (Ex: health, financial, etc…)
 	
-	-Free Days: Users will have the option to set up predetermined "free days" (Ex: every Saturday the User is free to 'break' their habit of no fast food, without it effecting their progress)
+-Free Days: Users will have the option to set up predetermined "free days" (Ex: every Saturday the User is free to 'break' their habit of no fast food, without it effecting their progress)
 	
-	-Incentives: Users will have the ability to set up predetermined incentives for when they reach chosen milestones. (Ex: at 21 days of no smoking, the user can buy the new purse)
+-Incentives: Users will have the ability to set up predetermined incentives for when they reach chosen milestones. (Ex: at 21 days of no smoking, the user can buy the new purse)
 	
-	-Log daily progress: Users will be able to mark "complete" or "incomplete" for each of their personal habits daily to track their progress.
-	
-	-Journal: Users will be able to use the journal functionality to log any thoughts they have along the way, and revisit these later. There will be optional prompts they can choose from, or they can write on a blank note.
-	
-	-Dashboard: shows progress through data, graphs and other visual representations.
+-Log daily progress: Users will be able to mark "complete" or "incomplete" for each of their personal habits daily to track their progress.
+
+-Journal: Users will be able to use the journal functionality to log any thoughts they have along the way, and revisit these later. There will be optional prompts they can choose from, or they can write on a blank note.
+
+-Dashboard: shows progress through data, graphs and other visual representations.
 
 
 
