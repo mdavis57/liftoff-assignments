@@ -8,12 +8,34 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [Landing page](LandingPage.PNG)
+* [Sign up page](SignUpPage.PNG)
+* [Log in page](LogInPage.PNG)
+* [Dashboard](Dashboard.PNG)
+* [Add category form](NewCategoryForm.PNG)
+* [Add habit form](NewHabitForm.PNG)
+* [Journal page](JournalPage.PNG)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[First Sprint Stories](Sprint1-Stories.PNG)
+
+https://trello.com/b/1ATKfnol/capstone-project-habit-tracker
+
+In my first sprint, I will create (very basic versions) of the following: 
+- landing page with 2 button links, log in or sign up
+- sign up page
+- log in page
+- Dashboard (at this point, the dashboard page will only have a "create habit" button and will display only the habits name upon creation.)
+- Add Habit form (will only ask for name)
+
+
+
+
+
+
+  
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/mdavis57/habit-tracker.git
