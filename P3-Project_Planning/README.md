@@ -26,8 +26,8 @@ In my first sprint, I will create (very basic versions) of the following:
 - landing page with 2 button links, log in or sign up
 - sign up page
 - log in page
-- Dashboard (at this point, the dashboard page will only have a "create habit" button and will display only the habits name upon creation.)
-- Add Habit form (will only ask for name)
+- Dashboard (at this point, the dashboard page will only have a "create habit" button and will display the habits name upon creation.)
+- Add Habit form 
 
 
 
