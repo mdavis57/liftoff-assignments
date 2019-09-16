@@ -13,6 +13,6 @@ https://github.com/mdavis57
 www.linkedin.com/in/milena-davis-015615133
 
 ### Resume
-[My Resume](Milena-Resume.pdf)
+[My Resume](MilenaLCresume.pdf)
 
 
